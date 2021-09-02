@@ -1,0 +1,283 @@
+C:\Users\GF63 THIN 9RCX\Desktop\Đồ án 3 lớp\Đồ án 3 lớp\Đồ án 3 lớp\obj\Debug\Đồ án 3 lớp.csprojAssemblyReference.cache
+C:\Users\GF63 THIN 9RCX\Desktop\Đồ án 3 lớp\Đồ án 3 lớp\Đồ án 3 lớp\obj\Debug\Đồ_án_3_lớp.Properties.Resources.resources
+C:\Users\GF63 THIN 9RCX\Desktop\Đồ án 3 lớp\Đồ án 3 lớp\Đồ án 3 lớp\obj\Debug\Đồ án 3 lớp.csproj.GenerateResource.cache
+C:\Users\GF63 THIN 9RCX\Desktop\Đồ án 3 lớp\Đồ án 3 lớp\Đồ án 3 lớp\obj\Debug\Đồ án 3 lớp.csproj.CoreCompileInputs.cache
+C:\Users\GF63 THIN 9RCX\Desktop\Đồ án 3 lớp\Đồ án 3 lớp\Đồ án 3 lớp\bin\Debug\Đồ án 3 lớp.exe.config
+C:\Users\GF63 THIN 9RCX\Desktop\Đồ án 3 lớp\Đồ án 3 lớp\Đồ án 3 lớp\bin\Debug\Đồ án 3 lớp.exe
+C:\Users\GF63 THIN 9RCX\Desktop\Đồ án 3 lớp\Đồ án 3 lớp\Đồ án 3 lớp\bin\Debug\Đồ án 3 lớp.pdb
+C:\Users\GF63 THIN 9RCX\Desktop\Đồ án 3 lớp\Đồ án 3 lớp\Đồ án 3 lớp\obj\Debug\Đồ án 3 lớp.exe
+C:\Users\GF63 THIN 9RCX\Desktop\Đồ án 3 lớp\Đồ án 3 lớp\Đồ án 3 lớp\obj\Debug\Đồ án 3 lớp.pdb
+C:\Users\GF63 THIN 9RCX\Desktop\Đồ án 3 lớp\Đồ án 3 lớp\Đồ án 3 lớp\obj\Debug\Đồ_án_3_lớp.View.Form1.resources
+C:\Users\GF63 THIN 9RCX\Desktop\Đồ án 3 lớp\Đồ án 3 lớp\Đồ án 3 lớp\obj\Debug\Đồ_án_3_lớp.View.Form2.resources
+C:\Users\ASUS\Downloads\DoAn\Đồ án 3 lớp\Đồ án 3 lớp\Đồ án 3 lớp\bin\Debug\Đồ án 3 lớp.exe.config
+C:\Users\ASUS\Downloads\DoAn\Đồ án 3 lớp\Đồ án 3 lớp\Đồ án 3 lớp\bin\Debug\Đồ án 3 lớp.exe
+C:\Users\ASUS\Downloads\DoAn\Đồ án 3 lớp\Đồ án 3 lớp\Đồ án 3 lớp\bin\Debug\Đồ án 3 lớp.pdb
+C:\Users\ASUS\Downloads\DoAn\Đồ án 3 lớp\Đồ án 3 lớp\Đồ án 3 lớp\obj\Debug\Đồ án 3 lớp.csprojAssemblyReference.cache
+C:\Users\ASUS\Downloads\DoAn\Đồ án 3 lớp\Đồ án 3 lớp\Đồ án 3 lớp\obj\Debug\Đồ_án_3_lớp.Properties.Resources.resources
+C:\Users\ASUS\Downloads\DoAn\Đồ án 3 lớp\Đồ án 3 lớp\Đồ án 3 lớp\obj\Debug\Đồ_án_3_lớp.View.Form1.resources
+C:\Users\ASUS\Downloads\DoAn\Đồ án 3 lớp\Đồ án 3 lớp\Đồ án 3 lớp\obj\Debug\Đồ_án_3_lớp.View.Form2.resources
+C:\Users\ASUS\Downloads\DoAn\Đồ án 3 lớp\Đồ án 3 lớp\Đồ án 3 lớp\obj\Debug\Đồ án 3 lớp.csproj.GenerateResource.cache
+C:\Users\ASUS\Downloads\DoAn\Đồ án 3 lớp\Đồ án 3 lớp\Đồ án 3 lớp\obj\Debug\Đồ án 3 lớp.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\DoAn\Đồ án 3 lớp\Đồ án 3 lớp\Đồ án 3 lớp\obj\Debug\Đồ án 3 lớp.exe
+C:\Users\ASUS\Downloads\DoAn\Đồ án 3 lớp\Đồ án 3 lớp\Đồ án 3 lớp\obj\Debug\Đồ án 3 lớp.pdb
+C:\Users\Admin\Desktop\PBL3\LapTrinhUngDung\bin\Debug\Đồ án 3 lớp.exe.config
+C:\Users\Admin\Desktop\PBL3\LapTrinhUngDung\bin\Debug\Đồ án 3 lớp.exe
+C:\Users\Admin\Desktop\PBL3\LapTrinhUngDung\bin\Debug\Đồ án 3 lớp.pdb
+C:\Users\Admin\Desktop\PBL3\LapTrinhUngDung\obj\Debug\Đồ án 3 lớp.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\PBL3\LapTrinhUngDung\obj\Debug\Đồ_án_3_lớp.Properties.Resources.resources
+C:\Users\Admin\Desktop\PBL3\LapTrinhUngDung\obj\Debug\Đồ_án_3_lớp.View.Form1.resources
+C:\Users\Admin\Desktop\PBL3\LapTrinhUngDung\obj\Debug\Đồ_án_3_lớp.View.Form2.resources
+C:\Users\Admin\Desktop\PBL3\LapTrinhUngDung\obj\Debug\Đồ_án_3_lớp.View.Form3.resources
+C:\Users\Admin\Desktop\PBL3\LapTrinhUngDung\obj\Debug\Đồ án 3 lớp.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\PBL3\LapTrinhUngDung\obj\Debug\Đồ án 3 lớp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\PBL3\LapTrinhUngDung\obj\Debug\Đồ án 3 lớp.exe
+C:\Users\Admin\Desktop\PBL3\LapTrinhUngDung\obj\Debug\Đồ án 3 lớp.pdb
+C:\Users\GF63 THIN 9RCX\Desktop\sáng 6\bin\Debug\Đồ án 3 lớp.exe.config
+C:\Users\GF63 THIN 9RCX\Desktop\sáng 6\bin\Debug\Đồ án 3 lớp.exe
+C:\Users\GF63 THIN 9RCX\Desktop\sáng 6\bin\Debug\Đồ án 3 lớp.pdb
+C:\Users\GF63 THIN 9RCX\Desktop\sáng 6\obj\Debug\Đồ án 3 lớp.csprojAssemblyReference.cache
+C:\Users\GF63 THIN 9RCX\Desktop\sáng 6\obj\Debug\Đồ_án_3_lớp.Properties.Resources.resources
+C:\Users\GF63 THIN 9RCX\Desktop\sáng 6\obj\Debug\Đồ_án_3_lớp.View.AddEdge_DeleteEdge.resources
+C:\Users\GF63 THIN 9RCX\Desktop\sáng 6\obj\Debug\Đồ_án_3_lớp.View.AddNode_EditNode.resources
+C:\Users\GF63 THIN 9RCX\Desktop\sáng 6\obj\Debug\Đồ_án_3_lớp.View.Form1.resources
+C:\Users\GF63 THIN 9RCX\Desktop\sáng 6\obj\Debug\Đồ_án_3_lớp.View.Form2.resources
+C:\Users\GF63 THIN 9RCX\Desktop\sáng 6\obj\Debug\Đồ án 3 lớp.csproj.GenerateResource.cache
+C:\Users\GF63 THIN 9RCX\Desktop\sáng 6\obj\Debug\Đồ án 3 lớp.csproj.CoreCompileInputs.cache
+C:\Users\GF63 THIN 9RCX\Desktop\sáng 6\obj\Debug\Đồ án 3 lớp.exe
+C:\Users\GF63 THIN 9RCX\Desktop\sáng 6\obj\Debug\Đồ án 3 lớp.pdb
+C:\Users\Admin\Desktop\PBL3\sáng-6\sáng 6\bin\Debug\Đồ án 3 lớp.exe.config
+C:\Users\Admin\Desktop\PBL3\sáng-6\sáng 6\bin\Debug\Đồ án 3 lớp.exe
+C:\Users\Admin\Desktop\PBL3\sáng-6\sáng 6\bin\Debug\Đồ án 3 lớp.pdb
+C:\Users\Admin\Desktop\PBL3\sáng-6\sáng 6\obj\Debug\Đồ án 3 lớp.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\PBL3\sáng-6\sáng 6\obj\Debug\Đồ_án_3_lớp.Properties.Resources.resources
+C:\Users\Admin\Desktop\PBL3\sáng-6\sáng 6\obj\Debug\Đồ_án_3_lớp.View.AddEdge_DeleteEdge.resources
+C:\Users\Admin\Desktop\PBL3\sáng-6\sáng 6\obj\Debug\Đồ_án_3_lớp.View.AddNode_EditNode.resources
+C:\Users\Admin\Desktop\PBL3\sáng-6\sáng 6\obj\Debug\Đồ_án_3_lớp.View.Form1.resources
+C:\Users\Admin\Desktop\PBL3\sáng-6\sáng 6\obj\Debug\Đồ_án_3_lớp.View.Form2.resources
+C:\Users\Admin\Desktop\PBL3\sáng-6\sáng 6\obj\Debug\Đồ án 3 lớp.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\PBL3\sáng-6\sáng 6\obj\Debug\Đồ án 3 lớp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\PBL3\sáng-6\sáng 6\obj\Debug\Đồ án 3 lớp.exe
+C:\Users\Admin\Desktop\PBL3\sáng-6\sáng 6\obj\Debug\Đồ án 3 lớp.pdb
+C:\Users\GF63 THIN 9RCX\Desktop\7-5-2021\bin\Debug\Đồ án 3 lớp.exe.config
+C:\Users\GF63 THIN 9RCX\Desktop\7-5-2021\bin\Debug\Đồ án 3 lớp.exe
+C:\Users\GF63 THIN 9RCX\Desktop\7-5-2021\bin\Debug\Đồ án 3 lớp.pdb
+C:\Users\GF63 THIN 9RCX\Desktop\7-5-2021\obj\Debug\Đồ án 3 lớp.csprojAssemblyReference.cache
+C:\Users\GF63 THIN 9RCX\Desktop\7-5-2021\obj\Debug\Đồ_án_3_lớp.Properties.Resources.resources
+C:\Users\GF63 THIN 9RCX\Desktop\7-5-2021\obj\Debug\Đồ_án_3_lớp.View.AddEdge_DeleteEdge.resources
+C:\Users\GF63 THIN 9RCX\Desktop\7-5-2021\obj\Debug\Đồ_án_3_lớp.View.AddNode_EditNode.resources
+C:\Users\GF63 THIN 9RCX\Desktop\7-5-2021\obj\Debug\Đồ_án_3_lớp.View.Form1.resources
+C:\Users\GF63 THIN 9RCX\Desktop\7-5-2021\obj\Debug\Đồ_án_3_lớp.View.Form2.resources
+C:\Users\GF63 THIN 9RCX\Desktop\7-5-2021\obj\Debug\Đồ án 3 lớp.csproj.GenerateResource.cache
+C:\Users\GF63 THIN 9RCX\Desktop\7-5-2021\obj\Debug\Đồ án 3 lớp.csproj.CoreCompileInputs.cache
+C:\Users\GF63 THIN 9RCX\Desktop\7-5-2021\obj\Debug\Đồ án 3 lớp.exe
+C:\Users\GF63 THIN 9RCX\Desktop\7-5-2021\obj\Debug\Đồ án 3 lớp.pdb
+C:\Users\GF63 THIN 9RCX\Desktop\sáng 8\bin\Debug\Đồ án 3 lớp.exe.config
+C:\Users\GF63 THIN 9RCX\Desktop\sáng 8\bin\Debug\Đồ án 3 lớp.exe
+C:\Users\GF63 THIN 9RCX\Desktop\sáng 8\bin\Debug\Đồ án 3 lớp.pdb
+C:\Users\GF63 THIN 9RCX\Desktop\sáng 8\obj\Debug\Đồ án 3 lớp.csprojAssemblyReference.cache
+C:\Users\GF63 THIN 9RCX\Desktop\sáng 8\obj\Debug\Đồ_án_3_lớp.Properties.Resources.resources
+C:\Users\GF63 THIN 9RCX\Desktop\sáng 8\obj\Debug\Đồ_án_3_lớp.View.AddEdge_DeleteEdge.resources
+C:\Users\GF63 THIN 9RCX\Desktop\sáng 8\obj\Debug\Đồ_án_3_lớp.View.Form1.resources
+C:\Users\GF63 THIN 9RCX\Desktop\sáng 8\obj\Debug\Đồ_án_3_lớp.View.Form2.resources
+C:\Users\GF63 THIN 9RCX\Desktop\sáng 8\obj\Debug\Đồ án 3 lớp.csproj.GenerateResource.cache
+C:\Users\GF63 THIN 9RCX\Desktop\sáng 8\obj\Debug\Đồ án 3 lớp.csproj.CoreCompileInputs.cache
+C:\Users\GF63 THIN 9RCX\Desktop\sáng 8\obj\Debug\Đồ án 3 lớp.exe
+C:\Users\GF63 THIN 9RCX\Desktop\sáng 8\obj\Debug\Đồ án 3 lớp.pdb
+C:\Users\GF63 THIN 9RCX\Desktop\sáng 8\obj\Debug\Đồ_án_3_lớp.View.AddNode.resources
+C:\Users\GF63 THIN 9RCX\Desktop\sáng 8\obj\Debug\Đồ_án_3_lớp.View.EditNode.resources
+C:\Users\Admin\Desktop\PBL3\trưa-8\bin\Debug\Đồ án 3 lớp.exe.config
+C:\Users\Admin\Desktop\PBL3\trưa-8\bin\Debug\Đồ án 3 lớp.exe
+C:\Users\Admin\Desktop\PBL3\trưa-8\bin\Debug\Đồ án 3 lớp.pdb
+C:\Users\Admin\Desktop\PBL3\trưa-8\obj\Debug\Đồ án 3 lớp.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\PBL3\trưa-8\obj\Debug\Đồ_án_3_lớp.Properties.Resources.resources
+C:\Users\Admin\Desktop\PBL3\trưa-8\obj\Debug\Đồ_án_3_lớp.View.AddEdge_DeleteEdge.resources
+C:\Users\Admin\Desktop\PBL3\trưa-8\obj\Debug\Đồ_án_3_lớp.View.AddNode.resources
+C:\Users\Admin\Desktop\PBL3\trưa-8\obj\Debug\Đồ_án_3_lớp.View.EditNode.resources
+C:\Users\Admin\Desktop\PBL3\trưa-8\obj\Debug\Đồ_án_3_lớp.View.Form1.resources
+C:\Users\Admin\Desktop\PBL3\trưa-8\obj\Debug\Đồ_án_3_lớp.View.Form2.resources
+C:\Users\Admin\Desktop\PBL3\trưa-8\obj\Debug\Đồ án 3 lớp.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\PBL3\trưa-8\obj\Debug\Đồ án 3 lớp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\PBL3\trưa-8\obj\Debug\Đồ án 3 lớp.exe
+C:\Users\Admin\Desktop\PBL3\trưa-8\obj\Debug\Đồ án 3 lớp.pdb
+C:\Users\ASUS\Downloads\trưa-8-new\bin\Debug\Đồ án 3 lớp.exe.config
+C:\Users\ASUS\Downloads\trưa-8-new\bin\Debug\Đồ án 3 lớp.exe
+C:\Users\ASUS\Downloads\trưa-8-new\bin\Debug\Đồ án 3 lớp.pdb
+C:\Users\ASUS\Downloads\trưa-8-new\obj\Debug\Đồ án 3 lớp.csprojAssemblyReference.cache
+C:\Users\ASUS\Downloads\trưa-8-new\obj\Debug\Đồ_án_3_lớp.Properties.Resources.resources
+C:\Users\ASUS\Downloads\trưa-8-new\obj\Debug\Đồ_án_3_lớp.View.AddEdge_DeleteEdge.resources
+C:\Users\ASUS\Downloads\trưa-8-new\obj\Debug\Đồ_án_3_lớp.View.AddNode.resources
+C:\Users\ASUS\Downloads\trưa-8-new\obj\Debug\Đồ_án_3_lớp.View.EditNode.resources
+C:\Users\ASUS\Downloads\trưa-8-new\obj\Debug\Đồ_án_3_lớp.View.Form1.resources
+C:\Users\ASUS\Downloads\trưa-8-new\obj\Debug\Đồ_án_3_lớp.View.Form2.resources
+C:\Users\ASUS\Downloads\trưa-8-new\obj\Debug\Đồ án 3 lớp.csproj.GenerateResource.cache
+C:\Users\ASUS\Downloads\trưa-8-new\obj\Debug\Đồ án 3 lớp.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\trưa-8-new\obj\Debug\Đồ án 3 lớp.exe
+C:\Users\ASUS\Downloads\trưa-8-new\obj\Debug\Đồ án 3 lớp.pdb
+C:\Users\ASUS\Desktop\Chieu-8\bin\Debug\Đồ án 3 lớp.exe.config
+C:\Users\ASUS\Desktop\Chieu-8\bin\Debug\Đồ án 3 lớp.exe
+C:\Users\ASUS\Desktop\Chieu-8\bin\Debug\Đồ án 3 lớp.pdb
+C:\Users\ASUS\Desktop\Chieu-8\obj\Debug\Đồ án 3 lớp.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\Chieu-8\obj\Debug\Đồ_án_3_lớp.Properties.Resources.resources
+C:\Users\ASUS\Desktop\Chieu-8\obj\Debug\Đồ_án_3_lớp.View.AddEdge_DeleteEdge.resources
+C:\Users\ASUS\Desktop\Chieu-8\obj\Debug\Đồ_án_3_lớp.View.AddNode.resources
+C:\Users\ASUS\Desktop\Chieu-8\obj\Debug\Đồ_án_3_lớp.View.EditNode.resources
+C:\Users\ASUS\Desktop\Chieu-8\obj\Debug\Đồ_án_3_lớp.View.Form1.resources
+C:\Users\ASUS\Desktop\Chieu-8\obj\Debug\Đồ_án_3_lớp.View.Form2.resources
+C:\Users\ASUS\Desktop\Chieu-8\obj\Debug\Đồ án 3 lớp.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\Chieu-8\obj\Debug\Đồ án 3 lớp.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Chieu-8\obj\Debug\Đồ án 3 lớp.exe
+C:\Users\ASUS\Desktop\Chieu-8\obj\Debug\Đồ án 3 lớp.pdb
+C:\Users\Admin\Desktop\PBL3\Sang9_5\Chieu-8\bin\Debug\Đồ án 3 lớp.exe.config
+C:\Users\Admin\Desktop\PBL3\Sang9_5\Chieu-8\bin\Debug\Đồ án 3 lớp.exe
+C:\Users\Admin\Desktop\PBL3\Sang9_5\Chieu-8\bin\Debug\Đồ án 3 lớp.pdb
+C:\Users\Admin\Desktop\PBL3\Sang9_5\Chieu-8\obj\Debug\Đồ án 3 lớp.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\PBL3\Sang9_5\Chieu-8\obj\Debug\Đồ_án_3_lớp.Properties.Resources.resources
+C:\Users\Admin\Desktop\PBL3\Sang9_5\Chieu-8\obj\Debug\Đồ_án_3_lớp.View.AddEdge_DeleteEdge.resources
+C:\Users\Admin\Desktop\PBL3\Sang9_5\Chieu-8\obj\Debug\Đồ_án_3_lớp.View.AddNode.resources
+C:\Users\Admin\Desktop\PBL3\Sang9_5\Chieu-8\obj\Debug\Đồ_án_3_lớp.View.EditNode.resources
+C:\Users\Admin\Desktop\PBL3\Sang9_5\Chieu-8\obj\Debug\Đồ_án_3_lớp.View.Form1.resources
+C:\Users\Admin\Desktop\PBL3\Sang9_5\Chieu-8\obj\Debug\Đồ_án_3_lớp.View.Form2.resources
+C:\Users\Admin\Desktop\PBL3\Sang9_5\Chieu-8\obj\Debug\Đồ án 3 lớp.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\PBL3\Sang9_5\Chieu-8\obj\Debug\Đồ án 3 lớp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\PBL3\Sang9_5\Chieu-8\obj\Debug\Đồ án 3 lớp.exe
+C:\Users\Admin\Desktop\PBL3\Sang9_5\Chieu-8\obj\Debug\Đồ án 3 lớp.pdb
+C:\Users\GF63 THIN 9RCX\Desktop\cn\Sang9_5\Chieu-8\bin\Debug\Đồ án 3 lớp.exe.config
+C:\Users\GF63 THIN 9RCX\Desktop\cn\Sang9_5\Chieu-8\bin\Debug\Đồ án 3 lớp.exe
+C:\Users\GF63 THIN 9RCX\Desktop\cn\Sang9_5\Chieu-8\bin\Debug\Đồ án 3 lớp.pdb
+C:\Users\GF63 THIN 9RCX\Desktop\cn\Sang9_5\Chieu-8\obj\Debug\Đồ án 3 lớp.csprojAssemblyReference.cache
+C:\Users\GF63 THIN 9RCX\Desktop\cn\Sang9_5\Chieu-8\obj\Debug\Đồ_án_3_lớp.Properties.Resources.resources
+C:\Users\GF63 THIN 9RCX\Desktop\cn\Sang9_5\Chieu-8\obj\Debug\Đồ_án_3_lớp.View.AddEdge_DeleteEdge.resources
+C:\Users\GF63 THIN 9RCX\Desktop\cn\Sang9_5\Chieu-8\obj\Debug\Đồ_án_3_lớp.View.AddNode.resources
+C:\Users\GF63 THIN 9RCX\Desktop\cn\Sang9_5\Chieu-8\obj\Debug\Đồ_án_3_lớp.View.EditNode.resources
+C:\Users\GF63 THIN 9RCX\Desktop\cn\Sang9_5\Chieu-8\obj\Debug\Đồ_án_3_lớp.View.Form1.resources
+C:\Users\GF63 THIN 9RCX\Desktop\cn\Sang9_5\Chieu-8\obj\Debug\Đồ_án_3_lớp.View.Form2.resources
+C:\Users\GF63 THIN 9RCX\Desktop\cn\Sang9_5\Chieu-8\obj\Debug\Đồ án 3 lớp.csproj.GenerateResource.cache
+C:\Users\GF63 THIN 9RCX\Desktop\cn\Sang9_5\Chieu-8\obj\Debug\Đồ án 3 lớp.csproj.CoreCompileInputs.cache
+C:\Users\GF63 THIN 9RCX\Desktop\cn\Sang9_5\Chieu-8\obj\Debug\Đồ án 3 lớp.exe
+C:\Users\GF63 THIN 9RCX\Desktop\cn\Sang9_5\Chieu-8\obj\Debug\Đồ án 3 lớp.pdb
+C:\Users\Admin\Desktop\PBL3\Đồ-án-9-5\bin\Debug\Đồ án 3 lớp.exe.config
+C:\Users\Admin\Desktop\PBL3\Đồ-án-9-5\bin\Debug\Đồ án 3 lớp.exe
+C:\Users\Admin\Desktop\PBL3\Đồ-án-9-5\bin\Debug\Đồ án 3 lớp.pdb
+C:\Users\Admin\Desktop\PBL3\Đồ-án-9-5\obj\Debug\Đồ án 3 lớp.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\PBL3\Đồ-án-9-5\obj\Debug\Đồ_án_3_lớp.Properties.Resources.resources
+C:\Users\Admin\Desktop\PBL3\Đồ-án-9-5\obj\Debug\Đồ_án_3_lớp.View.AddEdge_DeleteEdge.resources
+C:\Users\Admin\Desktop\PBL3\Đồ-án-9-5\obj\Debug\Đồ_án_3_lớp.View.AddNode.resources
+C:\Users\Admin\Desktop\PBL3\Đồ-án-9-5\obj\Debug\Đồ_án_3_lớp.View.EditNode.resources
+C:\Users\Admin\Desktop\PBL3\Đồ-án-9-5\obj\Debug\Đồ_án_3_lớp.View.Form1.resources
+C:\Users\Admin\Desktop\PBL3\Đồ-án-9-5\obj\Debug\Đồ_án_3_lớp.View.Form2.resources
+C:\Users\Admin\Desktop\PBL3\Đồ-án-9-5\obj\Debug\Đồ án 3 lớp.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\PBL3\Đồ-án-9-5\obj\Debug\Đồ án 3 lớp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\PBL3\Đồ-án-9-5\obj\Debug\Đồ án 3 lớp.exe
+C:\Users\Admin\Desktop\PBL3\Đồ-án-9-5\obj\Debug\Đồ án 3 lớp.pdb
+C:\Users\GF63 THIN 9RCX\Desktop\đưa lên gib\bin\Debug\Đồ án 3 lớp.exe.config
+C:\Users\GF63 THIN 9RCX\Desktop\đưa lên gib\bin\Debug\Đồ án 3 lớp.exe
+C:\Users\GF63 THIN 9RCX\Desktop\đưa lên gib\bin\Debug\Đồ án 3 lớp.pdb
+C:\Users\GF63 THIN 9RCX\Desktop\đưa lên gib\obj\Debug\Đồ án 3 lớp.csprojAssemblyReference.cache
+C:\Users\GF63 THIN 9RCX\Desktop\đưa lên gib\obj\Debug\Đồ_án_3_lớp.Properties.Resources.resources
+C:\Users\GF63 THIN 9RCX\Desktop\đưa lên gib\obj\Debug\Đồ_án_3_lớp.View.AddEdge_DeleteEdge.resources
+C:\Users\GF63 THIN 9RCX\Desktop\đưa lên gib\obj\Debug\Đồ_án_3_lớp.View.AddNode.resources
+C:\Users\GF63 THIN 9RCX\Desktop\đưa lên gib\obj\Debug\Đồ_án_3_lớp.View.EditNode.resources
+C:\Users\GF63 THIN 9RCX\Desktop\đưa lên gib\obj\Debug\Đồ_án_3_lớp.View.Form1.resources
+C:\Users\GF63 THIN 9RCX\Desktop\đưa lên gib\obj\Debug\Đồ_án_3_lớp.View.Form2.resources
+C:\Users\GF63 THIN 9RCX\Desktop\đưa lên gib\obj\Debug\Đồ án 3 lớp.csproj.GenerateResource.cache
+C:\Users\GF63 THIN 9RCX\Desktop\đưa lên gib\obj\Debug\Đồ án 3 lớp.csproj.CoreCompileInputs.cache
+C:\Users\GF63 THIN 9RCX\Desktop\đưa lên gib\obj\Debug\Đồ án 3 lớp.exe
+C:\Users\GF63 THIN 9RCX\Desktop\đưa lên gib\obj\Debug\Đồ án 3 lớp.pdb
+C:\Users\ASUS\Downloads\Doan0_5\Project-PBL3\bin\Debug\Đồ án 3 lớp.exe.config
+C:\Users\ASUS\Downloads\Doan0_5\Project-PBL3\bin\Debug\Đồ án 3 lớp.exe
+C:\Users\ASUS\Downloads\Doan0_5\Project-PBL3\bin\Debug\Đồ án 3 lớp.pdb
+C:\Users\ASUS\Downloads\Doan0_5\Project-PBL3\obj\Debug\Đồ án 3 lớp.csprojAssemblyReference.cache
+C:\Users\ASUS\Downloads\Doan0_5\Project-PBL3\obj\Debug\Đồ_án_3_lớp.Properties.Resources.resources
+C:\Users\ASUS\Downloads\Doan0_5\Project-PBL3\obj\Debug\Đồ_án_3_lớp.View.AddEdge_DeleteEdge.resources
+C:\Users\ASUS\Downloads\Doan0_5\Project-PBL3\obj\Debug\Đồ_án_3_lớp.View.AddNode.resources
+C:\Users\ASUS\Downloads\Doan0_5\Project-PBL3\obj\Debug\Đồ_án_3_lớp.View.EditNode.resources
+C:\Users\ASUS\Downloads\Doan0_5\Project-PBL3\obj\Debug\Đồ_án_3_lớp.View.Form1.resources
+C:\Users\ASUS\Downloads\Doan0_5\Project-PBL3\obj\Debug\Đồ_án_3_lớp.View.Form2.resources
+C:\Users\ASUS\Downloads\Doan0_5\Project-PBL3\obj\Debug\Đồ án 3 lớp.csproj.GenerateResource.cache
+C:\Users\ASUS\Downloads\Doan0_5\Project-PBL3\obj\Debug\Đồ án 3 lớp.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\Doan0_5\Project-PBL3\obj\Debug\Đồ án 3 lớp.exe
+C:\Users\ASUS\Downloads\Doan0_5\Project-PBL3\obj\Debug\Đồ án 3 lớp.pdb
+C:\Users\GF63 THIN 9RCX\Desktop\New folder\Project-PBL3\bin\Debug\Đồ án 3 lớp.exe.config
+C:\Users\GF63 THIN 9RCX\Desktop\New folder\Project-PBL3\bin\Debug\Đồ án 3 lớp.exe
+C:\Users\GF63 THIN 9RCX\Desktop\New folder\Project-PBL3\bin\Debug\Đồ án 3 lớp.pdb
+C:\Users\GF63 THIN 9RCX\Desktop\New folder\Project-PBL3\obj\Debug\Đồ án 3 lớp.csprojAssemblyReference.cache
+C:\Users\GF63 THIN 9RCX\Desktop\New folder\Project-PBL3\obj\Debug\Đồ_án_3_lớp.Properties.Resources.resources
+C:\Users\GF63 THIN 9RCX\Desktop\New folder\Project-PBL3\obj\Debug\Đồ_án_3_lớp.View.AddEdge_DeleteEdge.resources
+C:\Users\GF63 THIN 9RCX\Desktop\New folder\Project-PBL3\obj\Debug\Đồ_án_3_lớp.View.AddNode.resources
+C:\Users\GF63 THIN 9RCX\Desktop\New folder\Project-PBL3\obj\Debug\Đồ_án_3_lớp.View.EditNode.resources
+C:\Users\GF63 THIN 9RCX\Desktop\New folder\Project-PBL3\obj\Debug\Đồ_án_3_lớp.View.Form1.resources
+C:\Users\GF63 THIN 9RCX\Desktop\New folder\Project-PBL3\obj\Debug\Đồ_án_3_lớp.View.Form2.resources
+C:\Users\GF63 THIN 9RCX\Desktop\New folder\Project-PBL3\obj\Debug\Đồ án 3 lớp.csproj.GenerateResource.cache
+C:\Users\GF63 THIN 9RCX\Desktop\New folder\Project-PBL3\obj\Debug\Đồ án 3 lớp.csproj.CoreCompileInputs.cache
+C:\Users\GF63 THIN 9RCX\Desktop\New folder\Project-PBL3\obj\Debug\Đồ án 3 lớp.exe
+C:\Users\GF63 THIN 9RCX\Desktop\New folder\Project-PBL3\obj\Debug\Đồ án 3 lớp.pdb
+C:\Users\Admin\Desktop\Project-PBL3-main\Project-PBL3-main\bin\Debug\Đồ án 3 lớp.exe.config
+C:\Users\Admin\Desktop\Project-PBL3-main\Project-PBL3-main\bin\Debug\Đồ án 3 lớp.exe
+C:\Users\Admin\Desktop\Project-PBL3-main\Project-PBL3-main\bin\Debug\Đồ án 3 lớp.pdb
+C:\Users\Admin\Desktop\Project-PBL3-main\Project-PBL3-main\obj\Debug\Đồ án 3 lớp.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Project-PBL3-main\Project-PBL3-main\obj\Debug\Đồ_án_3_lớp.Properties.Resources.resources
+C:\Users\Admin\Desktop\Project-PBL3-main\Project-PBL3-main\obj\Debug\Đồ_án_3_lớp.View.AddEdge_DeleteEdge.resources
+C:\Users\Admin\Desktop\Project-PBL3-main\Project-PBL3-main\obj\Debug\Đồ_án_3_lớp.View.AddNode.resources
+C:\Users\Admin\Desktop\Project-PBL3-main\Project-PBL3-main\obj\Debug\Đồ_án_3_lớp.View.EditNode.resources
+C:\Users\Admin\Desktop\Project-PBL3-main\Project-PBL3-main\obj\Debug\Đồ_án_3_lớp.View.Form1.resources
+C:\Users\Admin\Desktop\Project-PBL3-main\Project-PBL3-main\obj\Debug\Đồ_án_3_lớp.View.Form2.resources
+C:\Users\Admin\Desktop\Project-PBL3-main\Project-PBL3-main\obj\Debug\Đồ án 3 lớp.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Project-PBL3-main\Project-PBL3-main\obj\Debug\Đồ án 3 lớp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Project-PBL3-main\Project-PBL3-main\obj\Debug\Đồ án 3 lớp.exe
+C:\Users\Admin\Desktop\Project-PBL3-main\Project-PBL3-main\obj\Debug\Đồ án 3 lớp.pdb
+C:\Users\ASUS\Downloads\Doan\bin\Debug\Đồ án 3 lớp.exe.config
+C:\Users\ASUS\Downloads\Doan\bin\Debug\Đồ án 3 lớp.exe
+C:\Users\ASUS\Downloads\Doan\bin\Debug\Đồ án 3 lớp.pdb
+C:\Users\ASUS\Downloads\Doan\obj\Debug\Đồ án 3 lớp.csprojAssemblyReference.cache
+C:\Users\ASUS\Downloads\Doan\obj\Debug\Đồ_án_3_lớp.Properties.Resources.resources
+C:\Users\ASUS\Downloads\Doan\obj\Debug\Đồ_án_3_lớp.View.AddEdge_DeleteEdge.resources
+C:\Users\ASUS\Downloads\Doan\obj\Debug\Đồ_án_3_lớp.View.AddNode.resources
+C:\Users\ASUS\Downloads\Doan\obj\Debug\Đồ_án_3_lớp.View.EditNode.resources
+C:\Users\ASUS\Downloads\Doan\obj\Debug\Đồ_án_3_lớp.View.Form1.resources
+C:\Users\ASUS\Downloads\Doan\obj\Debug\Đồ_án_3_lớp.View.Form2.resources
+C:\Users\ASUS\Downloads\Doan\obj\Debug\Đồ án 3 lớp.csproj.GenerateResource.cache
+C:\Users\ASUS\Downloads\Doan\obj\Debug\Đồ án 3 lớp.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\Doan\obj\Debug\Đồ án 3 lớp.exe
+C:\Users\ASUS\Downloads\Doan\obj\Debug\Đồ án 3 lớp.pdb
+C:\Users\Admin\Desktop\QuangThinhToi23_5\Doan\obj\Debug\Đồ án 3 lớp.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\QuangThinhToi23_5\Doan\obj\Debug\Đồ_án_3_lớp.Properties.Resources.resources
+C:\Users\Admin\Desktop\QuangThinhToi23_5\Doan\obj\Debug\Đồ_án_3_lớp.View.AddEdge_DeleteEdge.resources
+C:\Users\Admin\Desktop\QuangThinhToi23_5\Doan\obj\Debug\Đồ_án_3_lớp.View.AddNode.resources
+C:\Users\Admin\Desktop\QuangThinhToi23_5\Doan\obj\Debug\Đồ_án_3_lớp.View.EditNode.resources
+C:\Users\Admin\Desktop\QuangThinhToi23_5\Doan\obj\Debug\Đồ_án_3_lớp.View.Form1.resources
+C:\Users\Admin\Desktop\QuangThinhToi23_5\Doan\obj\Debug\Đồ_án_3_lớp.View.Form2.resources
+C:\Users\Admin\Desktop\QuangThinhToi23_5\Doan\obj\Debug\Đồ án 3 lớp.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\QuangThinhToi23_5\Doan\obj\Debug\Đồ án 3 lớp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\QuangThinhToi23_5\Doan\obj\Debug\Đồ án 3 lớp.exe
+C:\Users\Admin\Desktop\QuangThinhToi23_5\Doan\obj\Debug\Đồ án 3 lớp.pdb
+C:\Users\Admin\Desktop\QuangThinhToi23_5\Doan\bin\Debug\Đồ án 3 lớp.exe.config
+C:\Users\Admin\Desktop\QuangThinhToi23_5\Doan\bin\Debug\Đồ án 3 lớp.exe
+C:\Users\Admin\Desktop\QuangThinhToi23_5\Doan\bin\Debug\Đồ án 3 lớp.pdb
+C:\Users\ASUS\Downloads\tonigt\bin\Debug\Đồ án 3 lớp.exe.config
+C:\Users\ASUS\Downloads\tonigt\bin\Debug\Đồ án 3 lớp.exe
+C:\Users\ASUS\Downloads\tonigt\bin\Debug\Đồ án 3 lớp.pdb
+C:\Users\ASUS\Downloads\tonigt\obj\Debug\Đồ án 3 lớp.csprojAssemblyReference.cache
+C:\Users\ASUS\Downloads\tonigt\obj\Debug\Đồ_án_3_lớp.Properties.Resources.resources
+C:\Users\ASUS\Downloads\tonigt\obj\Debug\Đồ_án_3_lớp.View.AddEdge_DeleteEdge.resources
+C:\Users\ASUS\Downloads\tonigt\obj\Debug\Đồ_án_3_lớp.View.AddNode.resources
+C:\Users\ASUS\Downloads\tonigt\obj\Debug\Đồ_án_3_lớp.View.EditNode.resources
+C:\Users\ASUS\Downloads\tonigt\obj\Debug\Đồ_án_3_lớp.View.Form1.resources
+C:\Users\ASUS\Downloads\tonigt\obj\Debug\Đồ_án_3_lớp.View.Form2.resources
+C:\Users\ASUS\Downloads\tonigt\obj\Debug\Đồ án 3 lớp.csproj.GenerateResource.cache
+C:\Users\ASUS\Downloads\tonigt\obj\Debug\Đồ án 3 lớp.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\tonigt\obj\Debug\Đồ án 3 lớp.exe
+C:\Users\ASUS\Downloads\tonigt\obj\Debug\Đồ án 3 lớp.pdb
+C:\Users\GF63 THIN 9RCX\Desktop\Project-PBL3\bin\Debug\Đồ án 3 lớp.exe.config
+C:\Users\GF63 THIN 9RCX\Desktop\Project-PBL3\bin\Debug\Đồ án 3 lớp.exe
+C:\Users\GF63 THIN 9RCX\Desktop\Project-PBL3\bin\Debug\Đồ án 3 lớp.pdb
+C:\Users\GF63 THIN 9RCX\Desktop\Project-PBL3\obj\Debug\Đồ án 3 lớp.csprojAssemblyReference.cache
+C:\Users\GF63 THIN 9RCX\Desktop\Project-PBL3\obj\Debug\Đồ_án_3_lớp.Properties.Resources.resources
+C:\Users\GF63 THIN 9RCX\Desktop\Project-PBL3\obj\Debug\Đồ_án_3_lớp.View.AddEdge_DeleteEdge.resources
+C:\Users\GF63 THIN 9RCX\Desktop\Project-PBL3\obj\Debug\Đồ_án_3_lớp.View.AddNode.resources
+C:\Users\GF63 THIN 9RCX\Desktop\Project-PBL3\obj\Debug\Đồ_án_3_lớp.View.EditNode.resources
+C:\Users\GF63 THIN 9RCX\Desktop\Project-PBL3\obj\Debug\Đồ án 3 lớp.csproj.GenerateResource.cache
+C:\Users\GF63 THIN 9RCX\Desktop\Project-PBL3\obj\Debug\Đồ án 3 lớp.csproj.CoreCompileInputs.cache
+C:\Users\GF63 THIN 9RCX\Desktop\Project-PBL3\obj\Debug\Đồ án 3 lớp.exe
+C:\Users\GF63 THIN 9RCX\Desktop\Project-PBL3\obj\Debug\Đồ án 3 lớp.pdb
+C:\Users\GF63 THIN 9RCX\Desktop\Project-PBL3\obj\Debug\Đồ_án_3_lớp.View.GiaoDienChinh.resources
+C:\Users\GF63 THIN 9RCX\Desktop\Project-PBL3\obj\Debug\Đồ_án_3_lớp.View.ChiTietKhu.resources
